@@ -1,3 +1,4 @@
 # AirborneAssault
 
-AirborneAssault è videogioco basato sulla libreria libgdx, progettato e sviluppato durante il corso di Metodologie di Programmazione (Java) del Professor Navigli. E' un vertical scroller nel quale bisogna distruggere le navi nemiche, di varie categorie, stando attenti a non colpire gli aerei civili.
+AirborneAssault it's a videogame made with LibGXG, developed and designed during the Programming Methods course (Java) of professor Navigli at Sapienza University of Rome.
+It's a vertical scroller where you destroy different enemies ships with a fighter jet to collect points, keeping an eye on airliners to not lose them.
